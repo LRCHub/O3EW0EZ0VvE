@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "プロミスザスター",
+  "base_artist": "BiSH",
+  "createdAt": "2025-12-15T04:35:36.236227Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プロミスザスター",
+      "artist": "Bish",
+      "has_synced": true,
+      "path": "select/01_プロミスザスター_Bish.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Promise The Star [プロミスザスター]",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/02_Promise_The_Star_[プロミスザスター]_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プロミスザスター ’23",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/03_プロミスザスター_’23_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プロミスザスター - promise the star",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/04_プロミスザスター_-_promise_the_star_BiSH.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "BiSH / プロミスザスター[OFFICIAL VIDEO]",
+      "artist": "BiSH",
+      "has_synced": true,
+      "path": "select/05_BiSH___プロミスザスター[OFFICIAL_VIDEO]_BiSH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プロミスザスター",
+      "artist": "BiSH",
+      "has_synced": false,
+      "path": "select/pl_01_プロミスザスター_BiSH.txt"
+    }
+  ]
+}
